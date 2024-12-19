@@ -14,7 +14,7 @@ This readme is also available [in Russian](README.ru.md).
 
 ## Features
 
-- One or more Teleram users could send messages to the Obsidian vault.
+- One or more Telegram users could send messages to the Obsidian vault.
 - Each user could use custom folder to store notes coming from Teleram.
 - All messages are grouped by date — one note per day/month/year (according to the note name template) — or stored in a single note.
 - Each message in a note has a header with a timestamp.
